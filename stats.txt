@@ -1,0 +1,1 @@
+Nome do jogador: gui; Pontuação Máxima: 340; Peça com maior valor: 32; Tempo de jogo: 22s
