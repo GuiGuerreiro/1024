@@ -1,4 +1,4 @@
-#1024
+# 1024
 
 My first ever programming assignement in the Eletrical and Computer Engineering BSc course at Instituto Superior Técnico.
 
