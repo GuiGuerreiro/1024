@@ -7,5 +7,3 @@ Press N to start a new game.
 Use arrows to play. 
 Press Q to exit. 
 A stats file will be created. 
-
-Grade: 20/20
